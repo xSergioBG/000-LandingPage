@@ -1,6 +1,6 @@
 # Landing Page 🚀
 
-Este repositorio contiene los archivos esenciales para una Landing Page innovadora que promociona un producto revolucionario. La Landing Page está diseñada para atraer a los visitantes y proporcionar información clave sobre el producto, así como permitir que los interesados se pongan en contacto con la empresa.
+Este repositorio contiene los archivos esenciales para una Landing Page que promociona un producto revolucionario. La Landing Page está diseñada para atraer a los visitantes y proporcionar información clave sobre el producto, así como permitir que los interesados se pongan en contacto con la empresa.
 
 ## Características del Proyecto 🌟
 
@@ -21,10 +21,3 @@ Este repositorio contiene los archivos esenciales para una Landing Page innovado
 1. Clona este repositorio en tu sistema local.
 2. Abre el archivo `index.html` en un navegador web para ver la Landing Page.
 3. Explora la página y prueba la interactividad, como hacer clic en el botón de llamada a la acción y enviar mensajes a través del formulario de contacto.
-
-Si deseas utilizar esta Landing Page como punto de partida para tu propio proyecto o simplemente aprender sobre desarrollo web, este repositorio es un recurso valioso.
-
-¡Disfruta explorando y trabajando en este proyecto de Landing Page innovadora! 🌐
-
-**Nota:** Asegúrate de respetar los derechos de autor y las licencias asociadas con cualquier recurso externo utilizado en este proyecto, como imágenes de fondo. 📷
-
