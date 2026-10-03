@@ -8,7 +8,7 @@ Este repositorio contiene los archivos esenciales para una Landing Page que prom
 
 - **Diseño Atractivo:** La página utiliza un diseño atractivo con un encabezado llamativo, secciones de contenido bien estructuradas y un formulario de contacto que se destaca.
 
-- **Interactividad:** El archivo JavaScript agrega interactividad a la página, como un botón de llamada a la acción que muestra un mensaje al hacer clic y un formulario de contacto que envía mensajes al servidor y muestra una confirmación al usuario.
+- **Interactividad:** El archivo JavaScript agrega interactividad a la página, como un botón de llamada a la acción que muestra un mensaje al hacer clic y un formulario de demostración que muestra una alerta local. No hay servidor ni envío real de mensajes.
 
 - **Estilos Personalizados:** Los estilos CSS personalizados se aplican para garantizar una apariencia atractiva y una experiencia de usuario óptima.
 
@@ -21,3 +21,7 @@ Este repositorio contiene los archivos esenciales para una Landing Page que prom
 1. Clona este repositorio en tu sistema local.
 2. Abre el archivo `index.html` en un navegador web para ver la Landing Page.
 3. Explora la página y prueba la interactividad, como hacer clic en el botón de llamada a la acción y enviar mensajes a través del formulario de contacto.
+
+## Alcance del formulario
+
+El formulario se ejecuta únicamente en el navegador. La alerta es una demostración; no envía correos ni almacena solicitudes. Para recibir mensajes reales hace falta integrar y validar un servicio de envío.
