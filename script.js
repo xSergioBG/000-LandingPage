@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function() {
         const name = nameInput.value;
         const email = emailInput.value;
         const message = messageTextarea.value;
-        alert(`Gracias, ${name}.\nHemos recibido tu mensaje: "${message}"\nTe contactaremos en ${email}`);
+        alert(`Gracias, ${name}.\nVista previa de tu mensaje: "${message}"\nEste formulario de demostración no envía mensajes. Email indicado: ${email}`);
         contactForm.reset();
     });
 });
